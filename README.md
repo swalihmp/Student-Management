@@ -10,6 +10,7 @@ This Python application is a simple course management that is a web-based applic
 - Edit course information.
 - User authentication and password management.
 - User-friendly dashboard for easy navigation.
+- Pagination for course listing
 
 
 ## Prerequisites
